@@ -16,3 +16,6 @@ To solve this problem, there are two key metrics that you will be analyzing in t
 
 1. Customer churn, which can be defined formally as the percentage of customers who have discontinued their subscription to a service in a given period of time, and
 2. Customer lifetime value (LTV), which is the net profit associated with a customer for a company over a fixed period of time.
+
+
+Tableau story link - https://public.tableau.com/views/Customer_churn_case_study/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
