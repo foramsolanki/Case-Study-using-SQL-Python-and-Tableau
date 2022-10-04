@@ -1,4 +1,4 @@
-# Case-Study-using-SQL-Python-and-Tableau
+# Customer churn
 
 
 A Telecom company that provides home phone and internet services to 7,043 customers across Southern California. A new competitor has moved into the area, and the company is concerned about losing its existing customers. It wants to come up with a solution so that it does not have to worry about customers leaving.
